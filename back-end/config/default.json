@@ -1,0 +1,7 @@
+{
+  "DOMAIN": "https://twitterapi.liara.run",
+  "PORT": 8080,
+  "MONGO_URI": "mongodb//localhost:27017/twitter",
+  "jwtPrivateKey": "key"
+}
+
